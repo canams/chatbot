@@ -6,18 +6,18 @@ Sir Chattalot is a general knowledge, configurable chatbot. The knowledge set is
 
 **find all restrictions on this in the Personalisation section*
 
-### Requirements 
-[Python 3.5](https://www.python.org/downloads/) and above \
-[NumPy 1.19.x](https://numpy.org/install/) and above \
-[NLTK 3.5](https://www.nltk.org/install.html) and above \
-[scikit-learn-0.24.1](https://scikit-learn.org/stable/install.html) and above \
-[spaCy v3](https://spacy.io/usage) and above \
-[textdistance 4.2.1](https://pypi.org/project/textdistance/) and above
-
 ### Features
 - Answer questions (based on data set)
 - User name management
 - Minimal small talk
+
+### Requirements 
+- [Python 3.5](https://www.python.org/downloads/) and above \
+- [NumPy 1.19.x](https://numpy.org/install/) and above \
+- [NLTK 3.5](https://www.nltk.org/install.html) and above \
+- [scikit-learn-0.24.1](https://scikit-learn.org/stable/install.html) and above \
+- [spaCy v3](https://spacy.io/usage) and above \
+- [textdistance 4.2.1](https://pypi.org/project/textdistance/) and above
 
 ### Installation
 To install this program, just download the project files. These should all be in the same folder.
