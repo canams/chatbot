@@ -1,6 +1,6 @@
 # Sir Chattalot
 
-![](chattalot.gif)
+![](demo/chattalot_demo.gif)
 
 Sir Chattalot is a general knowledge, configurable chatbot. The knowledge set is based on the 'data.csv' file, so switch this out for any data set you wish* to get your own specialised knowledge chatbot.
 
